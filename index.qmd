@@ -5,6 +5,11 @@ affiliation: "Department of Disaster Science and Climate Resilience, University 
 date: "2026-06-05"
 description: "NEX-GDDP-CMIP6 analysis of projected precipitation under SSP2-4.5 and SSP5-8.5 using ACCESS-CM2 over Bangladesh"
 ---
+<style>
+p {
+  text-align: justify;
+}
+</style>
 
 ## 1. Introduction
 
